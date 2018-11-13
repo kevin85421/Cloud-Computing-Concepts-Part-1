@@ -2,7 +2,7 @@
 *	https://www.coursera.org/specializations/cloud-computing
 
 # What is the project? 
-	The project is about implementing a membership protocol.
+*	The project is about implementing a gossip protocol.
 
 # How do I run the Grader on my computer ?
 	$ chmod +x GraderNew.sh
