@@ -1,4 +1,5 @@
-# Cloud-Computing-Concepts-Part-1 : https://www.coursera.org/specializations/cloud-computing
+# Cloud-Computing-Concepts-Part-1 : 
+*	https://www.coursera.org/specializations/cloud-computing
 
 # What is the project? 
 	The project is about implementing a membership protocol.
