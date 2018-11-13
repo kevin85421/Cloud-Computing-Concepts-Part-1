@@ -18,7 +18,10 @@ typedef struct MessageHdr {
 }MessageHdr;
 ```
 *	Principle of **Gossip Protocol** :
+[reference](https://zhuanlan.zhihu.com/p/39703992)
+
 ![image](https://github.com/kevin85421/Cloud-Computing-Concepts-Part-1/blob/master/gossip.jpg)
+
 	
 
 	
